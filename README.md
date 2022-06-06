@@ -1,2 +1,2 @@
-# Third_Class_Exercises
+# Third Class Exercises
 My third class exercises
